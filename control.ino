@@ -1,6 +1,5 @@
 #include "include.h"
 
-
 extern int Rhandstate;
 extern int Lhandstate;
 extern volatile int run;
